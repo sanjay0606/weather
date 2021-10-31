@@ -1,0 +1,17 @@
+.container_ {
+  border: 2px solid grey;
+  margin: 8px;
+  border-radius: 5px;
+  background-color: #caefe6;
+}
+.container_:hover {
+  background-color: #fbf98c;
+}
+.para {
+  font-size: 18px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.head {
+  font-size: 23px;
+  color: #475454;
+}
